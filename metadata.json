@@ -1,0 +1,6 @@
+{
+  "name": "KiberAkademiya - Kiberxavfsizlik va CS Tizimlari",
+  "description": "Kompyuter arxitekturasi, kriptografiya, tarmoq tahlili, veb-xavfsizlik va tizim himoyasi bo'yicha to'liq o'zbek tilidagi interaktiv kiber ta'lim tizimi va PyQt6 Desktop dasturi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
